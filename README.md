@@ -1,39 +1,40 @@
 # Arduino 
 
-This is a simple example code of how to control a servo for the intesnt to base their code off of.
+This is the code used to connect the bluetooth module to MIT app inventor and controll the servos through the app. This code is not currently in use because MIT app inventor is fairly buggy and difficult to use.
 
-Related repositories
+# Related repositories
 
-E.g. if this is the repo for the PIdestal, probably want to link to the PIcam code. If there is a higher level organizing document, link to that here (or if it’s an internal doc, at least mention its existence and who to contact for access to it).
+This is seperate from other projects at Tech Hive, it isn't currently relevant. 
 
-Schematics
+# Schematics
 
-If applicable. If you upload a photo, take the time to label it (just something quick with microsoft paint or OSX preview is fine). Label parts and circle details that might not be obvious.
+TBA
 
-Branches
+# Branches
 
-If applicable. Is there more than one version of this that is being worked on? Write a quick description of each of the branches here. The master branch, unless otherwise stated, should always work if you follow the setup steps.
+N/A
 
-Dependencies
+# Dependencies
 
-What do you need to get this code to do what the description says?
+TBA
 
-Hardware
+# Hardware
 
-List each part including version number.
+TBA
 
-Software
+# Software
 
-List each software dependency including version number. Include preferred IDEs, link to related third-party libraries, other TechHive code.
+Need to download "MIT app inventor" from the app store. It only currently works on Andriod. 
 
-Setup
+# Setup
 
-How do you set up the stuff from the above section? E.g. how do you install the software, does the software run on your local machine (your personal computer) or the microprocessor? How do you connect the hardware? How do you build the code? How do you load it into the hardware? It’s also fine to link to other documentation here instead of retyping everything, e.g. link to https://www.arduino.cc/en/Guide/ArduinoUno if you expect people to use the IDE for the development process.
+in progress. 
 
-Tests / Usage
 
-How do you know that the setup worked (e.g. should there be certain LEDs on? Should there be certain output printed through the serial port?)? Are there tests that should pass? If you press a certain button should something happen?
+# Tests / Usage
 
-Contact
+MIT app inventor is not working very well and is very buggy. If you get this to work please alert the media 
 
-Who is the main person/people who maintains this repo? What is the best way to contact them (email them? Create a GitHub issue?)
+# Contact
+
+Dom and Arrielle are responsible for this. 
